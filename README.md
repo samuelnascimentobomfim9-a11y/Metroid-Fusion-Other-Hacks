@@ -1,2 +1,2 @@
 # Metroid-Fusion-Other-Hacks
-Meus hacks secundário e outros do Romhacking.
+Meus hacks secundários.

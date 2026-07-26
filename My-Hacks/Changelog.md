@@ -9,7 +9,7 @@ Todas as alterações relevantes deste projeto serão documentadas neste arquivo
 - Aguardando alterações.
 - Removido: Minimapa na versão Free.
 
-### 『0.1』 - 05/06/2026
+### [A]『0.1』 - 05/06/2026
 
 - Adicionados: Novos anúncios na versão Free. Com possibilidade de removê-los na versão Deluxe.
 
@@ -23,13 +23,13 @@ Todas as alterações relevantes deste projeto serão documentadas neste arquivo
 - Adicionados: Revisão na tradução.
 - Adicionados: Dois diálogos engraçados.
 
-#### 『1.03』 - 14/06/2026
+#### [E]『1.03』 - 14/06/2026
 
 - Corrigido: A tradução na interface da Tela de Pausa. (Que por algum motivo, não foi importada para o jogo)
 - Corrigido: Ending (Que também não foi exportado). 
 - Removido: Número da versão nos créditos (já que os créditos não tem suporte para os números).
 
-#### 『1.02』 - 23/05/2026
+#### [E]『1.02』 - 23/05/2026
 
 - Corrigido: Textos da Tela de Pausa, Números 3C; 47 à 49; 67 à 6B.
 - Corrigido: Locations. (Números 0, B e 12.)
@@ -38,7 +38,7 @@ Todas as alterações relevantes deste projeto serão documentadas neste arquivo
 - Alteração: Traduzido parcialmente a interface da Tela de Pausa.
 - Alteração: Traduzido o Ending (Final).
 
-#### 『1.01』 - 15/04/2026
+#### [B]『1.01』 - 15/04/2026
 
 - Alteração: Traduzido para o Português Brasileiro
 - Alteração: Setores agora são: SETOR-(Número)-(Cores). Tanto para a Sala de Navegação quanto
@@ -49,12 +49,16 @@ para os "Locations"
 
 ### Metroid Alt-Fusion II
 
-#### [Estável] Não lançado - ??/0?/2026
+#### [Estável] Não lançado - ??/08/2026
+
+- Adicionados: Tradução no resto do jogo.
+
+#### [B] 『2.2.5』 - 05/03/2025
 
 - Adicionados: Revisão na tradução.
-- Adicionados: Tradução no resto do jogo.
 - Adicionados: Créditos.
+- Adicionados: Um diálogo exclusivo do X-Fusion.
 
-#### 『2.2』 - 05/03/2025
+#### [E]『2.2』 - 05/03/2025
 
 - Adicionados: Tradução nos diálogos da Sala de Navegação e nas “Locations”.

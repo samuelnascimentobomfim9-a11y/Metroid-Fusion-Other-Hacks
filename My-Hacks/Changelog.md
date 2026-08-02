@@ -31,8 +31,14 @@ Todas as alterações relevantes deste projeto serão documentadas neste arquivo
 
 #### [E]『1.02』 - 23/05/2026
 
-- Corrigido: Textos da Tela de Pausa, Números 3C; 47 à 49; 67 à 6B.
-- Corrigido: Locations. (Números 0, B e 12.)
+- Corrigido: Textos da Tela de Pausa. 
+  - Número 3C
+  - Número 47 à 49
+  - Número 67 até 6B
+- Corrigido: Locations.
+  - Número 0
+  - Número B
+  - Número 12
 - Adicionados: Os créditos que estavam faltando.
 - Adicionados: Suporte pro MAGE Themes 1.16.0 (Podendo adicionar mais recursos)
 - Alteração: Traduzido parcialmente a interface da Tela de Pausa.
@@ -52,13 +58,21 @@ para os "Locations"
 #### [Estável] Não lançado - ??/08/2026
 
 - Adicionados: Tradução no resto do jogo.
+  - Pause Screen
+- Adicionados: Revisão na tradução que faltou.
+  - Locations
 
 #### [B] 『2.2.5』 - 05/03/2025
 
 - Adicionados: Revisão na tradução.
+  - Navigation
+  - Monologues
+  - File Screen
 - Adicionados: Créditos.
 - Adicionados: Um diálogo exclusivo do X-Fusion.
 
 #### [E]『2.2』 - 05/03/2025
 
-- Adicionados: Tradução nos diálogos da Sala de Navegação e nas “Locations”.
+- Adicionados: Tradução em PT-BR.
+  - Diálogos da Sala de Navegação
+  - Locations

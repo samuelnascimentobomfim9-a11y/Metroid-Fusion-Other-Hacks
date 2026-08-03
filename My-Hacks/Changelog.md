@@ -23,6 +23,11 @@ Todas as alterações relevantes deste projeto serão documentadas neste arquivo
 - Adicionado: Revisão na tradução.
 - Adicionado: Dois diálogos engraçados.
 
+#### [E] 『1.03.5』 - 24/07/2026
+
+- Corrigido: Créditos
+- Corrigido: Messages.
+
 #### [E]『1.03』 - 14/06/2026
 
 - Corrigido: A tradução na interface da Tela de Pausa. (Que por algum motivo, não foi importada para o jogo)

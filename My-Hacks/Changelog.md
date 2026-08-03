@@ -11,17 +11,17 @@ Todas as alterações relevantes deste projeto serão documentadas neste arquivo
 
 ### [A]『0.1』 - 05/06/2026
 
-- Adicionados: Novos anúncios na versão Free. Com possibilidade de removê-los na versão Deluxe.
+- Adicionado: Novos anúncios na versão Free. Com possibilidade de removê-los na versão Deluxe.
 
 ## Alt-Fusion Trilogy
 
 ### Metroid Alt-Fusion III
 
-#### [Estável] Não Lançado - ??/??/2026 
+#### [Estável] Não Lançado - ??/09/2026 
 
 - Corrigido: Os diálogos na Sala de Navegação (Que ficavam bugados)
-- Adicionados: Revisão na tradução.
-- Adicionados: Dois diálogos engraçados.
+- Adicionado: Revisão na tradução.
+- Adicionado: Dois diálogos engraçados.
 
 #### [E]『1.03』 - 14/06/2026
 
@@ -39,40 +39,40 @@ Todas as alterações relevantes deste projeto serão documentadas neste arquivo
   - Número 0
   - Número B
   - Número 12
-- Adicionados: Os créditos que estavam faltando.
-- Adicionados: Suporte pro MAGE Themes 1.16.0 (Podendo adicionar mais recursos)
-- Alteração: Traduzido parcialmente a interface da Tela de Pausa.
-- Alteração: Traduzido o Ending (Final).
+- Adicionado: Os créditos que estavam faltando.
+- Adicionado: Suporte pro MAGE Themes 1.16.0 (Podendo adicionar mais recursos)
+- Modificado: Traduzido parcialmente a interface da Tela de Pausa.
+- Modificado: Traduzido o Ending (Final).
 
 #### [B]『1.01』 - 15/04/2026
 
-- Alteração: Traduzido para o Português Brasileiro
-- Alteração: Setores agora são: SETOR-(Número)-(Cores). Tanto para a Sala de Navegação quanto
+- Modificado: Traduzido para o Português Brasileiro
+- Modificado: Setores agora são: SETOR-(Número)-(Cores). Tanto para a Sala de Navegação quanto
 para os "Locations"
-- Adicionados: Destacados os Setores nos textos.
-- Alteração: Algumas pequenas mudanças no texto da "Navigation".
-- Alteração: Os mapas agora são "Hidden" (Só que os mais importantes, Save, Recharge, Navegation e Aux Room, são vísiveis. Forçando a explorar)
+- Adicionado: Destacados os Setores nos textos.
+- Modificado: Algumas pequenas mudanças no texto da "Navigation".
+- Modificado: Os mapas agora são "Hidden" (Só que os mais importantes, Save, Recharge, Navegation e Aux Room, são vísiveis. Forçando a explorar)
 
 ### Metroid Alt-Fusion II
 
 #### [Estável] Não lançado - ??/08/2026
 
-- Adicionados: Tradução no resto do jogo.
+- Adicionado: Tradução no resto do jogo.
   - Pause Screen
-- Adicionados: Revisão na tradução que faltou.
+- Adicionado: Revisão na tradução que faltou.
   - Locations
 
 #### [B] 『2.2.5』 - 05/03/2025
 
-- Adicionados: Revisão na tradução.
+- Adicionado: Revisão na tradução.
   - Navigation
   - Monologues
   - File Screen
-- Adicionados: Créditos.
-- Adicionados: Um diálogo exclusivo do X-Fusion.
+- Adicionado: Créditos.
+- Adicionado: Um diálogo exclusivo do X-Fusion.
 
 #### [E]『2.2』 - 05/03/2025
 
-- Adicionados: Tradução em PT-BR.
+- Adicionado: Tradução em PT-BR.
   - Diálogos da Sala de Navegação
   - Locations

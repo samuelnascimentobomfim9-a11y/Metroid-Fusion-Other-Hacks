@@ -2,6 +2,12 @@
 
 Todas as alterações relevantes deste projeto serão documentadas neste arquivo.
 
+## Metroid Sub-Acrash
+
+### [ALPHA] Não Lançado - ??/08/2026
+
+- Adicionado: Minimapa do ZM Return of Zebes.
+
 ## Metroid Fusion TS Free Edition & Deluxe Edition
 
 ### [ALPHA] Não Lançado - ??/??/202?

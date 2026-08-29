@@ -23,11 +23,11 @@ Todas as alterações relevantes deste projeto serão documentadas neste arquivo
 
 ### Metroid Alt-Fusion III
 
-#### [Estável] Não Lançado - ??/09/2026 
+#### [Estável] Não Lançado - 01/09/2026 
 
 - Corrigido: Os diálogos na Sala de Navegação (Que ficavam bugados)
 - Adicionado: Revisão na tradução.
-- Adicionado: Dois diálogos engraçados.
+- Adicionado: Dois diálogos extras.
 
 #### [E] 『1.03.5』 - 24/07/2026
 
@@ -66,8 +66,10 @@ para os "Locations"
 
 ### Metroid Alt-Fusion II
 
-#### [Estável] Não lançado - ??/08/2026
+#### [Estável] Não lançado - 01/09/2026
 
+- Adicionado: Tile para indicar o teleporte.
+- Adicionado: Créditos.
 - Adicionado: Tradução no resto do jogo.
   - Pause Screen
 - Adicionado: Revisão na tradução que faltou.

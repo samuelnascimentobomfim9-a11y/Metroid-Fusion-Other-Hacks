@@ -2,23 +2,6 @@
 
 Todas as alterações relevantes deste projeto serão documentadas neste arquivo.
 
-## Metroid Sub-Acrash
-
-### [ALPHA] Não Lançado - ??/09/2026
-
-- Adicionado: Minimapa do Subversion.
-
-## Metroid Fusion TS Free Edition & Deluxe Edition
-
-### [ALPHA] Não Lançado - ??/??/202?
-
-- Aguardando alterações.
-- Removido: Minimapa na versão Free.
-
-### [A]『0.1』 - 05/06/2026
-
-- Adicionado: Novos anúncios na versão Free. Com possibilidade de removê-los na versão Deluxe.
-
 ## Alt-Fusion Trilogy
 
 ### Metroid Alt-Fusion III
@@ -28,6 +11,7 @@ Todas as alterações relevantes deste projeto serão documentadas neste arquivo
 - Corrigido: Os diálogos na Sala de Navegação (Que ficavam bugados)
 - Adicionado: Revisão na tradução.
 - Adicionado: Dois diálogos extras.
+- Adicionado: Minimapa do ARBO (Advanced Reverse Boss Order)
 
 #### [E] 『1.03.5』 - 24/07/2026
 
@@ -89,3 +73,20 @@ para os "Locations"
 - Adicionado: Tradução em PT-BR.
   - Diálogos da Sala de Navegação
   - Locations
+
+## Metroid Sub-Acrash
+
+### [ALPHA] Não Lançado - ??/09/2026
+
+- Adicionado: Minimapa do Subversion.
+
+## Metroid Fusion TS Free Edition & Deluxe Edition
+
+### [ALPHA] Não Lançado - ??/??/202?
+
+- Aguardando alterações.
+- Removido: Minimapa na versão Free.
+
+### [A]『0.1』 - 05/06/2026
+
+- Adicionado: Novos anúncios na versão Free. Com possibilidade de removê-los na versão Deluxe.

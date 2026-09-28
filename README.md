@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> O repositorio foi arquivado e desatualizado indeterminadamente. Os arquivos estão disponivel para download no Release.
+> O repositorio foi arquivado e desatualizado indeterminadamente. Os arquivos estão disponivel para download no Release. O Alt-Fusion III em breve será lançado a última versão.
 
 # Metroid-Fusion-Other-Hacks
 Meus hacks secundários.

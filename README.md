@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> O repositorio foi arquivado e desatualizado indeterminadamente. Os arquivos estão disponivel para download no Release.
+
 # Metroid-Fusion-Other-Hacks
 Meus hacks secundários.
 # WIKI
